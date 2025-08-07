@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 👩‍💻 About Me
 
 - 🎓 MCA student at **VIT, Chennai**
-- 🏡 From **Jamshedpur, Jharkhand**
+- 🏡 **Chennai, Tamil Nadu**
 - 🚀 Currently working on: `Say-Hello` - a social media style MERN app
 - 💬 Ask me about anything JavaScript, React, Node, Firebase, or ML Algorithms 
 - 🌱 Learning DSA, System Design & DevOps tools
