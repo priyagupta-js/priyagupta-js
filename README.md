@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
--  Aspiring Full-Stack Developer
+- 💻 Aspiring Full-Stack Developer
 - 🎓 MCA student at **VIT, Chennai**
 - 🏡 **Chennai, Tamil Nadu**
 - 🚀 Currently working on: `Talk-Time` - a Real-time Chat Applications.
