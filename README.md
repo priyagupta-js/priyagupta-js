@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Priya Gupta 👋</h1>
 
 <p align="center">
-  💻 Full-Stack MERN Developer •  Programmer • 🌸 Student  
+  💻 Full-Stack MERN Developer • 🌱 Programmer • 🌸 Student  
 </p>
 
 <p align="center">
