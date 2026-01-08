@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - 🔹 [**Portfolio Website**](https://github.com/priyagupta-js/Portfolio): Clean, responsive HTML portfolio site
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=priyagupta-js&show_icons=true&theme=radical" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyagupta-js&layout=compact&theme=radical" height="150px" />
 </p>
-
+-->
 ---
 
 ## 🔗 Let's Connect
