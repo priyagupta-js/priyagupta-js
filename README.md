@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Priya Gupta 👋</h1>
 
 <p align="center">
-  🌸 Student • 💻 Programmer • 🌐 Web Developer  
+  💻 Full-Stack MERN Developer •  Programmer • 🌸 Student  
 </p>
 
 <p align="center">
@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
+-  Aspiring Full-Stack Developer
 - 🎓 MCA student at **VIT, Chennai**
 - 🏡 **Chennai, Tamil Nadu**
-- 🚀 Currently working on: `Say-Hello` - a social media style MERN app
+- 🚀 Currently working on: `Talk-Time` - a Real-time Chat Applications.
 - 💬 Ask me about anything JavaScript, React, Nodejs, Firebase, or ML Algorithms 
 - 🌱 Learning DSA, System Design & DevOps tools
 
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects
 
-- 🔹 [**Say-Hello**](https://github.com/priyagupta-js/Say-Hello): MERN stack social media web app
+- 🔹[**NoteSpace**](https://github.com/priyagupta-js/NoteSpace---Simple-and-secure-notes-taking-web-application): Simple-and-secure-notes-taking-web-application
 - 🔹 [**Sapaadu**](https://github.com/priyagupta-js/Sapaadu): Food ordering platform built with JavaScript
 - 🔹 [**Portfolio Website**](https://github.com/priyagupta-js/Portfolio): Clean, responsive HTML portfolio site
 
