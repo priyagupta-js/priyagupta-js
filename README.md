@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Priya Gupta 👋</h1>
 
 <p align="center">
-  💻 Full-Stack MERN Developer • 🌱 Programmer • 🌸 Student  
+  💻 Software Development Engineer • 🌱 Programmer • 🌸 Student  
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-- 💻 Aspiring Full-Stack Developer
+- 💻 Software Development Engineer
 - 🎓 MCA student at **VIT, Chennai**
 - 🏡 **Chennai, Tamil Nadu**
-- 🚀 Currently working on: `Talk-Time` - a Real-time Chat Applications.
+- 🚀 Currently working on: `Real-Time Multilingual Voice Translation System`
 - 💬 Ask me about anything JavaScript, React, Nodejs, Firebase, or ML Algorithms 
 - 🌱 Learning DSA, System Design & DevOps tools
 
