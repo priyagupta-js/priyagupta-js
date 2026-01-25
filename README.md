@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💻 Software Development Engineer
 - 🎓 MCA student at **VIT, Chennai**
 - 🏡 **Chennai, Tamil Nadu**
-- 🚀 Currently working on: `Real-Time Multilingual Voice Translation System`
+- 🚀 Currently working on: `A Real-Time Multilingual Voice Translation System`
 - 💬 Ask me about anything JavaScript, React, Nodejs, Firebase, or ML Algorithms 
 - 🌱 Learning DSA, System Design & DevOps tools
 
