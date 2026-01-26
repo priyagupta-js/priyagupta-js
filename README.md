@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Priya Gupta 👋</h1>
+<h1 align="center">Hi there, I'm Priya Gupta😄 </h1>
 
 <p align="center">
   💻 Software Development Engineer • 🌱 Programmer • 🌸 Student  
