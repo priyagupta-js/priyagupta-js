@@ -53,9 +53,10 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects
 
+- 🔹[**Talk-Flow**](https://github.com/priyagupta-js/TalkFlow): Real-Time Chat Application
 - 🔹[**NoteSpace**](https://github.com/priyagupta-js/NoteSpace---Simple-and-secure-notes-taking-web-application): Simple-and-secure-notes-taking-web-application
-- 🔹 [**Sapaadu**](https://github.com/priyagupta-js/Sapaadu): Food ordering platform built with JavaScript
-- 🔹 [**Portfolio Website**](https://github.com/priyagupta-js/Portfolio): Clean, responsive HTML portfolio site
+- 🔹[**Sapaadu**](https://github.com/priyagupta-js/Sapaadu): Food ordering platform built with JavaScript
+- 🔹[**Portfolio Website**](https://github.com/priyagupta-js/Portfolio): Clean, responsive HTML portfolio site
 
 ---
 <!--
