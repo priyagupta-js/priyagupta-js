@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🔹[**Talk-Flow**](https://github.com/priyagupta-js/TalkFlow): Real-Time Chat Application
 - 🔹[**Sapaadu**](https://github.com/priyagupta-js/Sapaadu): Food ordering platform built with JavaScript
 - 🔹[**Portfolio Website**](https://github.com/priyagupta-js/Portfolio): Clean, responsive HTML portfolio site
-- 🔹[**A Real-Time speech-to-speech Translation System**](https://github.com/priyagupta-js/A-Real-Time-Speech-To-Speech-translation-System): Speech=To-Speech Translation
+- 🔹[**A Real-Time speech-to-speech Translation System**](https://github.com/priyagupta-js/A-Real-Time-Speech-To-Speech-translation-System): Speech-To-Speech Translation
 
 ---
 <!--
