@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🎓 MCA student at **VIT, Chennai**
 - 🏡 **Chennai, Tamil Nadu**
 - 🚀 Currently working on:`A Real-Time Multilingual Speech-to-Speech Voice Translation System`
-- 💬 Ask me about anything JavaScript,React,Nodejs,Firebase,or AI/ML 
+- 💬 Ask me about anything JavaScript, React, Nodejs, Python, and AI/ML 
 - 🌱 Learning DSA, System Design & DevOps tools
 
 ---
