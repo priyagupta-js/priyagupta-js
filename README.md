@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 👩‍💻 About Me
 
 - 💻 Software Engineer
-- 🎓 Master of Computer Applications | **VIT, Chennai**
+- 🎓 Master of Computer Applications(MCA) | **VIT, Chennai**
 - 🏡 **Pune, Maharashtra**
 - 🚀 Currently working on:`Building AI agents`
 
@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Python]( https://raw.githubusercontent.com/numpy/numpy/main/pyproject.toml)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
